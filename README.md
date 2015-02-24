@@ -54,3 +54,4 @@ object InitialisedTestData extends DataInitializer {
       }
 
 ```
+This repo uses git-flow
